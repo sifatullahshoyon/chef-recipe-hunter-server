@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chefPicture": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Chef1",
+      "chefPicture": "https://i.ibb.co/Dznw90M/1.jpg",
       "chefName": "Rahim Ahmed",
       "yearsOfExperience": 15,
       "numberOfRecipes": 120,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "chefPicture": "https://via.placeholder.com/150/00FF00/FFFFFF?text=Chef2",
+      "chefPicture": "https://i.ibb.co/RpkNV5h/2.jpg",
       "chefName": "Sadia Khan",
       "yearsOfExperience": 10,
       "numberOfRecipes": 90,
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "chefPicture": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Chef3",
+      "chefPicture": "https://i.ibb.co/R21TK6t/3.jpg",
       "chefName": "Kabir Islam",
       "yearsOfExperience": 20,
       "numberOfRecipes": 150,
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "chefPicture": "https://via.placeholder.com/150/FFFF00/FFFFFF?text=Chef4",
+      "chefPicture": "https://i.ibb.co/kDcyg7k/4.jpg",
       "chefName": "Farhana Akter",
       "yearsOfExperience": 8,
       "numberOfRecipes": 80,
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "chefPicture": "https://via.placeholder.com/150/FF00FF/FFFFFF?text=Chef5",
+      "chefPicture": "https://i.ibb.co/5Rj7rrD/5.jpg",
       "chefName": "Nasir Uddin",
       "yearsOfExperience": 12,
       "numberOfRecipes": 110,
@@ -41,7 +41,7 @@
     },
     {
       "id": 6,
-      "chefPicture": "https://via.placeholder.com/150/00FFFF/FFFFFF?text=Chef6",
+      "chefPicture": "https://i.ibb.co/3cRKSHf/6.jpg",
       "chefName": "Sara Rahman",
       "yearsOfExperience": 18,
       "numberOfRecipes": 130,
