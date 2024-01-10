@@ -7,12 +7,22 @@ app.use(cors());
 
 const chefs = require('./data/chef.json');
 
+// const corsOptions = {
+//     origin: 'http://localhost:5173/',
+//     optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+//   }
+
 app.get('/' , (req , res) => {
     res.send('chef recipe hunter in running on server')
 });
 
 
-app.get('/chefs' , (req , res) => {
+// app.get('/chefs' , cors(corsOptions) , (req , res) => {
+//     res.send(chefs);
+// });
+
+
+app.get('/chefs' ,  (req , res) => {
     res.send(chefs);
 });
 

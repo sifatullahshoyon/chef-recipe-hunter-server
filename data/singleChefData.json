@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/Dznw90M/1.jpg",
+    "chefName": "Rahim Ahmed",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 105,
+    "shortBio": "Rahim Ahmed is renowned for her innovative take on traditional Bangladeshi cuisine. he loves blending local flavors with modern techniques to create unique dishes.",
+    "cookingMethod": "He specializes in slow-cooking methods, infusing spices at precise intervals for depth of flavor.",
+    "rating": 4.8,
+    "likes": 5000,
+    "recipes": [
+      {
+        "recipeName": "Spiced Lentil Soup",
+        "description": "A hearty lentil soup infused with a blend of aromatic spices like cumin, coriander, and turmeric. Served with a hint of fresh lemon.",
+        "likes": 500
+      },
+      {
+        "recipeName": "Bengali Fish Curry",
+        "description": "A classic Bengali fish curry cooked in a rich tomato-based sauce with mustard oil, coconut milk, and a medley of spices.",
+        "likes": 600
+      },
+      {
+        "recipeName": "Mango Chutney Chicken",
+        "description": "Tender chicken marinated in a tangy mango chutney glaze, grilled to perfection, and served with a side of fragrant basmati rice.",
+        "likes": 900
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://i.ibb.co/RpkNV5h/2.jpg",
+    "chefName": "Zubair Ahmed",
+    "yearsOfExperience": 18,
+    "numberOfRecipes": 130,
+    "shortBio": "Zubair's journey began in his grandmother's kitchen. He's dedicated to preserving traditional Bangladeshi recipes while adding his own creative touch.",
+    "cookingMethod": "He prefers grilling and roasting techniques to bring out the authentic flavors of ingredients.",
+    "rating": 4.9,
+    "likes": 4000,
+    "recipes": [
+      {
+        "recipeName": "Sizzling Beef Bhuna",
+        "description": "Tender beef pieces cooked in a thick, spicy gravy with onions, tomatoes, and a blend of traditional Bangladeshi spices.",
+        "likes": 800
+      },
+      {
+        "recipeName": "Shorshe Ilish",
+        "description": "Hilsa fish marinated in a mustard sauce, wrapped in banana leaves, and grilled to perfection.",
+        "likes": 700
+      },
+      {
+        "recipeName": "Pitha",
+        "description": "Traditional Bangladeshi rice cakes served with sweet or savory fillings, a beloved delicacy during festivals.",
+        "likes": 1000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://i.ibb.co/R21TK6t/3.jpg",
+    "chefName": "Kabir Islam",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 110,
+    "shortBio": "Kabir Islam passion lies in fusion cuisine. he enjoys experimenting with different cultural flavors and ingredients to create harmonious dishes.",
+    "cookingMethod": "he employs a mix of traditional and modern cooking methods, emphasizing the importance of balancing textures and tastes.",
+    "rating": 4.7,
+    "likes": 6000,
+    "recipes": [
+      {
+        "recipeName": "Mango Lassi Popsicles",
+        "description": "Refreshing popsicles made with yogurt, mango, and a hint of cardamom, a delightful treat for hot days.",
+        "likes": 600
+      },
+      {
+        "recipeName": "Chana Masala Tacos",
+        "description": "A fusion twist on tacos, featuring a spiced chickpea filling with fresh toppings and a tangy cilantro-lime sauce.",
+        "likes": 750
+      },
+      {
+        "recipeName": "Coconut Lentil Curry",
+        "description": "Creamy coconut-based lentil curry infused with warming spices, perfect to pair with steamed rice or naan bread.",
+        "likes": 850
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.ibb.co/kDcyg7k/4.jpg",
+    "chefName": "Kamal Hossain",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 150,
+    "shortBio": "Kamal, with his extensive experience, aims to simplify complex recipes without compromising authenticity. He believes in making cooking accessible to everyone.",
+    "cookingMethod": "He focuses on straightforward cooking techniques, making recipes easy to follow for home cooks.",
+    "rating": 4.6,
+    "likes": 3000,
+    "recipes": [
+      {
+        "recipeName": "Succulent Kebabs",
+        "description": "Skewered marinated meat chunks grilled to perfection, served with a zesty mint-yogurt sauce.",
+        "likes": 950
+      },
+      {
+        "recipeName": "Tandoori Roti",
+        "description": "Homemade flatbread cooked in a tandoor oven, perfect to accompany various curries and dishes.",
+        "likes": 850
+      },
+      {
+        "recipeName": "Palak Paneer",
+        "description": "Creamy spinach curry with cubes of paneer cheese, flavored with aromatic Indian spices.",
+        "likes": 600
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://i.ibb.co/5Rj7rrD/5.jpg",
+    "chefName": "Nasir Uddin",
+    "yearsOfExperience": 14,
+    "numberOfRecipes": 120,
+    "shortBio": "Nasir Uddin is dedicated to promoting healthy Bangladeshi cuisine. Her recipes emphasize nutritious ingredients without sacrificing taste.",
+    "cookingMethod": "he employs steaming and sautéing methods to retain nutritional value while enhancing flavors.",
+    "rating": 4.8,
+    "likes": 17000,
+    "recipes": [
+      {
+        "recipeName": "Quinoa and Vegetable Pilaf",
+        "description": "A wholesome pilaf made with quinoa, assorted vegetables, and a blend of spices, a nutritious twist on a classic dish.",
+        "likes": 850
+      },
+      {
+        "recipeName": "Grilled Tandoori Chicken Salad",
+        "description": "Tandoori-spiced chicken atop a bed of fresh greens, tomatoes, cucumbers, and a tangy yogurt dressing.",
+        "likes": 750
+      },
+      {
+        "recipeName": "Turmeric-Ginger Tea",
+        "description": "A soothing tea blend of turmeric, ginger, and spices, known for its health benefits and comforting warmth.",
+        "likes": 800
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://i.ibb.co/3cRKSHf/6.jpg",
+    "chefName": "Imran Khan",
+    "yearsOfExperience": 16,
+    "numberOfRecipes": 125,
+    "shortBio": "Imran has a flair for street food-inspired dishes. He recreates beloved Bangladeshi street eats with a gourmet twist.",
+    "cookingMethod": "He excels in quick-cooking techniques, ensuring dishes are packed with bold flavors and textures.",
+    "rating": 4.9,
+    "likes": 20000,
+    "recipes": [
+      {
+        "recipeName": "Kati Roll",
+        "description": "Spiced meat or paneer wrapped in a paratha bread, a popular grab-and-go street food item.",
+        "likes": 1200
+      },
+      {
+        "recipeName": "Fuchka",
+        "description": "Crispy, hollow puris filled with tangy tamarind water, chickpeas, potatoes, and spices, a delightful street food snack.",
+        "likes": 1350
+      },
+      {
+        "recipeName": "Bhapa Pitha",
+        "description": "Steamed rice cakes filled with sweet molasses or coconut, a traditional Bengali dessert often made during festivals.",
+        "likes": 1100
+      }
+    ]
+  }
+]

@@ -1,51 +1,50 @@
 [
-    {
-      "id": 1,
-      "chefPicture": "https://i.ibb.co/Dznw90M/1.jpg",
-      "chefName": "Rahim Ahmed",
-      "yearsOfExperience": 15,
-      "numberOfRecipes": 120,
-      "likes": 5000
-    },
-    {
-      "id": 2,
-      "chefPicture": "https://i.ibb.co/RpkNV5h/2.jpg",
-      "chefName": "Sadia Khan",
-      "yearsOfExperience": 10,
-      "numberOfRecipes": 90,
-      "likes": 4000
-    },
-    {
-      "id": 3,
-      "chefPicture": "https://i.ibb.co/R21TK6t/3.jpg",
-      "chefName": "Kabir Islam",
-      "yearsOfExperience": 20,
-      "numberOfRecipes": 150,
-      "likes": 6000
-    },
-    {
-      "id": 4,
-      "chefPicture": "https://i.ibb.co/kDcyg7k/4.jpg",
-      "chefName": "Farhana Akter",
-      "yearsOfExperience": 8,
-      "numberOfRecipes": 80,
-      "likes": 3000
-    },
-    {
-      "id": 5,
-      "chefPicture": "https://i.ibb.co/5Rj7rrD/5.jpg",
-      "chefName": "Nasir Uddin",
-      "yearsOfExperience": 12,
-      "numberOfRecipes": 110,
-      "likes": 4500
-    },
-    {
-      "id": 6,
-      "chefPicture": "https://i.ibb.co/3cRKSHf/6.jpg",
-      "chefName": "Sara Rahman",
-      "yearsOfExperience": 18,
-      "numberOfRecipes": 130,
-      "likes": 5500
-    }
-  ]
-  
+  {
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/Dznw90M/1.jpg",
+    "chefName": "Rahim Ahmed",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 120,
+    "likes": 5000
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://i.ibb.co/RpkNV5h/2.jpg",
+    "chefName": "Zubair Ahmed",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 90,
+    "likes": 4000
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://i.ibb.co/R21TK6t/3.jpg",
+    "chefName": "Kabir Islam",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 150,
+    "likes": 6000
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.ibb.co/kDcyg7k/4.jpg",
+    "chefName": "Kamal Hossain",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 80,
+    "likes": 3000
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://i.ibb.co/5Rj7rrD/5.jpg",
+    "chefName": "Nasir Uddin",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 110,
+    "likes": 4500
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://i.ibb.co/3cRKSHf/6.jpg",
+    "chefName": "Imran Khan",
+    "yearsOfExperience": 18,
+    "numberOfRecipes": 130,
+    "likes": 5500
+  }
+]
