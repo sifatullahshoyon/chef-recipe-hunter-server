@@ -7,6 +7,8 @@ app.use(cors());
 
 const chefs = require('./data/chef.json');
 
+const singleChefs = require('./data/singleChefData.json');
+
 // const corsOptions = {
 //     origin: 'http://localhost:5173/',
 //     optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
@@ -24,6 +26,13 @@ app.get('/' , (req , res) => {
 
 app.get('/chefs' ,  (req , res) => {
     res.send(chefs);
+});
+
+
+app.get('/chefs/:id' , (req, res) => {
+    const id = parseInt(req.params.id);
+    const singleChefsData = singleChefs?.find(singleData => singleData.id === id);
+    res.send(singleChefsData);
 });
 
 
